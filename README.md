@@ -1,5 +1,6 @@
  @Aarti-Nangare
- interested in web devlopment
+Bsc(cs) student 
+-  interested in web devlopment
 -  I’m currently learning react and node js
 
 
